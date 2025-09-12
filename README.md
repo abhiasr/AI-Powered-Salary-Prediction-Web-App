@@ -1,3 +1,3 @@
 ## Live Demo
 
-https://wagelens-rjfdrkmt4brx39vba8pioq.streamlit.app
+https://ai-powered-salary-predictor.streamlit.app
