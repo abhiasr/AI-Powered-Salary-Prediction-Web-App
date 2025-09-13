@@ -1,3 +1,3 @@
 ## Live Demo
 
-https://ai-powered-salary-predictor.streamlit.app
+https://ai-powered-salary-prediction-web-app.streamlit.app
